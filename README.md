@@ -5,7 +5,7 @@
 cd AstrBot/data/plugins/
 git clone https://github.com/s-h/astrbot_plugin_linuxexec.git
 ```
-目录，重启AstrBot
+重启AstrBot
 
 ##
 使用方法
