@@ -1,7 +1,11 @@
 # linuxexec
 执行linux系统命令
 ## 安装
-防止AstrBot/data/plugins/目录，重启AstrBot
+```bash
+cd AstrBot/data/plugins/
+git clone https://github.com/s-h/astrbot_plugin_linuxexec.git
+```
+目录，重启AstrBot
 
 ##
 使用方法
