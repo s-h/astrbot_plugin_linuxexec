@@ -2,7 +2,7 @@ from astrbot.api.event import filter, AstrMessageEvent
 
 from astrbot.api.star import Context, Star, register
 from astrbot.api import logger
-from .CommandExecutor import CommandExecutor
+from .command_executor import CommandExecutor
 
 @register("linuxexec", "s-h", "执行linux非交互式系统命令", "1.0.0")
 class MyPlugin(Star):
